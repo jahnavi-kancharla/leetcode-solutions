@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
