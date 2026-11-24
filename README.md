@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jahnavi-kancharla/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
